@@ -1,0 +1,11 @@
+# Виртуальное окружение Python
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Файлы операционной системы (Windows, macOS)
+.DS_Store
+Thumbs.db
